@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">Applicant Search</router-link> |
+      <router-link to="/forum">Job Listings</router-link> |
       <router-link to="/dashboard">Employer Dashboard</router-link>
     </div>
     <router-view/>
